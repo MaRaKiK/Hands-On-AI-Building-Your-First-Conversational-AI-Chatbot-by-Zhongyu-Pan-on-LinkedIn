@@ -49,9 +49,9 @@ It demonstrates how to **fine-tune a pretrained model** with Hugging Face Transf
 ---
 
 ## 📂 Project Structure  
--**app.py** #Main Application File, 
--**requirements.txt** #Libraries,
--**README.md** #Project description
+-**app.py** is the Main Application File, 
+-**requirements.txt** is the file for Libraries,
+-**README.md** is the file for Project description
 
 ---
 
